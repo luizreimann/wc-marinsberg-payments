@@ -19,6 +19,7 @@ Antes de instalar o plugin, certifique-se de que você possui:
 
 - Uma conta cadastrada na [MarinsBerg Payments](https://painel.marinsberg.com/).
 - A versão do WooCommerce 5.5.2 ou superior.
+- Para utilizar o método de pagamento PIX, é recomendado o plugin [Brazilian Market on WooCommerce](https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/).
 - PHP 7.4 ou superior.
 
 ### Passo a Passo
